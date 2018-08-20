@@ -19,6 +19,7 @@ body {
 h1,
 h2,
 h3 {
+  color: $tertiary-color;
   margin: 0;
   font-weight: 400;
 
@@ -34,7 +35,7 @@ h3 {
 }
 
 a {
-  color: #fff;
+  color: $tertiary-color;
   text-decoration: none;
 }
 
