@@ -186,4 +186,9 @@ main {
   height: 60px;
 }
 
+// Hide Unused Elements
+.hide {
+  display: none;
+}
+
 @import "mobile";
